@@ -6,6 +6,12 @@
 hs_err_pid*
 
 Img/
+!Img/1.jpg
+!Img/2.jpg
+!Img/3.jpg
+!Img/4.jpg
+!Img/5.jpg
+!Img/ico.jpg
 
 ## GWT
 war/
